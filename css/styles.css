@@ -1,7 +1,7 @@
 * { margin: 0; padding: 0; border: 0; font-size: 100%; }
 #my-class {
     color: orangered;
-    border: 1px solid orangered;
+    border: 1px solid lightsalmon;
     background-color: orangered;
     padding: 0.5cm;
     text-align: center;
@@ -13,16 +13,20 @@
     padding-right: 10px;
     padding-left: 10px;
     padding-bottom: 10px;
-    color: orange;
+    color: black;
     border: 1px solid #FF5F00;
-    background-color: blue;
+    background-color: lightblue;
     text-align: center;
 }
 .my-name {
     color: black;
     border: 1px solid #BFC8FF;
     padding: 0.1cm;
-    background-color: orange;
+    background-color: lightsalmon;
     text-align: left;
-	font-family:  Consolas, "Andale Mono", "Lucida Console", "Lucida Sans Typewriter", Monaco, "Courier New", "monospace"
+    /* [disabled]margin-top: 5cm; */
+    margin-right: 1cm;
+    margin-left: 1cm;
+    /* [disabled]margin-bottom: 5cm; */
+    font-family: Consolas, "Andale Mono", "Lucida Console", "Lucida Sans Typewriter", Monaco, "Courier New", "monospace"
 }
