@@ -30,3 +30,7 @@
     /* [disabled]margin-bottom: 5cm; */
     font-family: Consolas, "Andale Mono", "Lucida Console", "Lucida Sans Typewriter", Monaco, "Courier New", "monospace"
 }
+.border {
+    padding: 4px;
+    border: 2px dotted;
+}
