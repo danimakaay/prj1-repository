@@ -1,12 +1,13 @@
 * { margin: 0; padding: 0; border: 0; font-size: 100%; }
 #my-class {
-    color: orangered;
+    color: #FF5F00;
     border: 1px solid lightsalmon;
     background-color: orangered;
     padding: 0.5cm;
     text-align: center;
-	background-image: url("../images/bunchofbooks.jpg")
-	
+    background-image: url("../images/bunchofbooks.jpg");
+    font-size: 89px;
+    font-family: 'Akaya Telivigala', cursive;
 }
 .my-paragraph {
     padding-top: 10px;
