@@ -1,37 +1,8 @@
 * { margin: 0; padding: 0; border: 0; font-size: 100%; }
-#my-class {
-    color: #FF5F00;
-    border: 1px solid lightsalmon;
-    background-color: orangered;
-    padding: 0.5cm;
-    text-align: center;
-    background-image: url("../images/bunchofbooks.jpg");
-    font-size: 89px;
-    font-family: 'Akaya Telivigala', cursive;
-}
-.my-paragraph {
-    padding-top: 10px;
-    padding-right: 10px;
-    padding-left: 10px;
-    padding-bottom: 10px;
-    color: black;
-    border: 1px solid #FF5F00;
-    background-color: lightblue;
-    text-align: center;
-}
-.my-name {
-    color: black;
-    border: 1px solid #BFC8FF;
-    padding: 0.1cm;
-    background-color: lightsalmon;
-    text-align: left;
-    /* [disabled]margin-top: 5cm; */
-    margin-right: 1cm;
-    margin-left: 1cm;
-    /* [disabled]margin-bottom: 5cm; */
-    font-family: Consolas, "Andale Mono", "Lucida Console", "Lucida Sans Typewriter", Monaco, "Courier New", "monospace"
-}
-.border {
+.row {
     padding: 4px;
     border: 2px dotted;
+}
+.body {
+	background: #FF9C3A;
 }
